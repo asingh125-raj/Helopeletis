@@ -1,0 +1,7 @@
+Flask
+tensorflow-cpu
+flask-dropzone
+gunicorn
+uwsgi
+numpy
+Pillow

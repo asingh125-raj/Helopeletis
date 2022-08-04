@@ -1,0 +1,82 @@
+html { 
+    background: url('https://www.outsideinc.com/wp-content/uploads/2021/07/GettyImages-1200880026-960x960-c-default.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    }
+
+
+html { 
+    background-color: rgb(238, 248, 182);
+    }
+
+h1 {   
+    color: rgba(205, 38, 38, 0.66);    
+    text-align: center;
+    font-size: 40px;
+    
+    }
+
+h2 {   
+        color: rgba(81, 7, 242, 0.959);    
+        text-align: center;
+        margin-top: 50px;
+        }
+
+p   {
+    color: rgb(0, 255, 13);
+    text-align: center;
+    border: 4px solid #b5f700"
+    }
+.dropzone-container-div 
+    {
+    display: flex;
+    justify-content: center;
+     max-height: 300px;      
+    }
+
+.button-container-div 
+    {
+    text-align: center;
+           
+    }
+
+.dropzone-container-div 
+    {
+    text-align: center;        
+    /*border: 1px solid coral;*/        
+    }
+
+
+button {
+    background-color: #564caf; /* Green */
+    border: none;
+    border-radius: 12px;
+    color: rgba(251, 241, 241, 0.99);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 26px;
+    margin-top: 50px;
+    
+        }
+.findings
+    {
+    font-size: 30px;
+    background-color: #4CAF50; /* Green */
+    border: none;
+    border-radius: 12px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 26px;  
+    }
+
+        
+
+
+    
