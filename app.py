@@ -50,7 +50,7 @@ def upload():
     img_batch = np.expand_dims(img, 0)      
     predictions = MODEL.predict(img_batch)
     score = tf.nn.softmax(predictions[0])
-    global result
+    
     if 100 - np.max(score) < 60:
         result = "The analysis shows no clear result"
     else:
