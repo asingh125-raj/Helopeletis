@@ -24,7 +24,7 @@ app.config.update(
 )
 
 dropzone = Dropzone(app)
-MODEL = tf.keras.models.load_model("./tflite_model.pb")
+MODEL = tf.keras.models.load_model("./my_model.h5")
 class_names = ['Healthy_leaf', 'Sick_leaf']
 global submission
 submission = 'Your file name'
